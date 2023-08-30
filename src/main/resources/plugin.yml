@@ -1,0 +1,7 @@
+name: minecraft-points
+version: 1.0-SNAPSHOT
+main: me.tuskdev.points.PointsPlugin
+commands:
+  points:
+    aliases:
+      - 'pontos'
